@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "Learning PHP",
+    "authors": [
+        {
+            "name": "Mardarovsky",
+            "email": "mardarovsky@gmail.com"
+        }
+    ],
+    "require": {}
+}
